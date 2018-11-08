@@ -1,0 +1,64 @@
+{
+  "employees": [{
+    "id": 1,
+    "name": "Sarah Summers",
+    "departmentId": 1,
+    "computerId": 3
+  },
+  {
+    "id": 2,
+    "name": "Ron Weasley",
+    "departmentId": 3,
+    "computerId": 2
+  },
+  {
+    "id": 3,
+    "name": "Luna Lovegood",
+    "departmentId": 2,
+    "computerId": 4
+  },
+  {
+    "id": 4,
+    "name": "Professor McGonnagal",
+    "departmentId": 2,
+    "computerId": 1
+  },
+  {
+    "id": 5,
+    "name": "Felix Felices",
+    "departmentId": 3,
+    "computerId": 4
+  }
+],
+  "departments": [
+    {
+      "id": 1,
+      "name": "Potions"
+    },
+    {
+      "id": 2,
+      "name": "Transfiguration"
+    },
+    {
+      "id": 3,
+      "name": "Defense Against The Dark Arts"
+    }],
+    "computers": [
+      {
+        "id": 1,
+        "name": "Nimbus 2000"
+      },
+      {
+        "id": 2,
+        "name": "Hungarian Wormtail"
+      },
+      {
+        "id": 3,
+        "name": "Gringotts Desktop"
+      },
+      {
+        "id": 4,
+        "name": "Quiddich Seeker"
+      }
+    ]
+}
